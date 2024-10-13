@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "name": "Alice Johnson",
+      "username": "alicej",
+      "phone": "9876543210",
+      "email": "yatin983.be22@chitkara.edu.in",
+      "password": "2345",
+      "busNO": "Bus no.1",
+      "startDate": "2024-10-15",
+      "expireDate": "2025-10-15",
+      "address": "456 Oak Street, Green Valley"
+    }
+  ]
+}
